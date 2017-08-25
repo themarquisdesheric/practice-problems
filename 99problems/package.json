@@ -1,0 +1,17 @@
+{
+  "name": "99problems",
+  "version": "1.0.0",
+  "description": "",
+  "main": "reverseString.js",
+  "dependencies": {
+    "eslint": "^4.5.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
